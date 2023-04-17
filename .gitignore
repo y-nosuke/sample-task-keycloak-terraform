@@ -1,0 +1,5 @@
+terraform.tfstate.backup
+.terraform
+.envrc
+users.tfvars
+!envs/local/users.tfvars
