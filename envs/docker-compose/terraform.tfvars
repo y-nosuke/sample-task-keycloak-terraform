@@ -1,1 +1,1 @@
-environment_prefix = "local"
+environment_prefix = "docker-compose"
