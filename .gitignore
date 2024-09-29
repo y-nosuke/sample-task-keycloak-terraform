@@ -4,3 +4,4 @@ terraform.tfstate.backup
 .envrc
 users.tfvars
 !envs/local/users.tfvars
+!envs/local/terraform.tfstate

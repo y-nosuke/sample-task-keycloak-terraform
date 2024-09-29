@@ -12,6 +12,12 @@ KeyCloak の設定を行う terraform のソースです。
 127.0.0.1 keycloak.localhost
 ```
 
+### adminのメールアドレス設定
+
+<http://keycloak.localhost/admin/master/console/#/master/users>
+
+adminのメールアドレスを設定する（例： <admin@example.com>）
+
 ### .direnv の作成
 
 ```sh
